@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SahilSamel
 - 👀 I’m interested in Gaming, Workouts and coding
-- 🌱 I’m currently learning Python and Java script
+- 🌱 I’m currently learning Python and Java script and C
 - 💞️ I’m looking to collaborate on Future projects if i have any
-- 📫 How to reach me 
+- 📫 How to reach me Insta - sahil.samel
 
 <!---
 SahilSamel/SahilSamel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
