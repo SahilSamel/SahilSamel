@@ -1,4 +1,4 @@
-## Yo
+### Yo
 - 👋 Hi, I’m @SahilSamel
 - 👀 I’m interested in Gaming, Workouts and coding
 - 🌱 I’m currently learning Python and Java script and C
