@@ -9,8 +9,8 @@
 
 | Website     | Front-End   | Live Demo                                                     | Repo
 | ------------|-------------|---------------------------------------------------------------|-------
-| TSMwithSnipe| HTML,CSS    | <a href="https://tsmwithsnipe.netlify.app/">Click me!</a>     | <a href="https://github.com/SahilSamel/TSM">Click me!</a> 
-| Calculator  | HTML,CSS,JS | <a href="https://calculatorwithme.netlify.app/">Click me!</a> | <a href="https://github.com/SahilSamel/Calculator">Click me!</a>
+| TSMwithSnipe| HTML,CSS    | <a href="https://tsmwithsnipe.netlify.app/">Click me!</a>     | <a href="https://github.com/SahilSamel/TSM">Let's go!</a> 
+| Calculator  | HTML,CSS,JS | <a href="https://calculatorwithme.netlify.app/">Click me!</a> | <a href="https://github.com/SahilSamel/Calculator">Let's go!</a>
 
 
 
