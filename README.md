@@ -8,13 +8,13 @@
 
 ## My Web Dev Projects
 
-| Website     | Front-End   | Live Demo                                                     | Repo
+| WebSite     | Front-End   | Live Demo                                                     | Repo
 | ------------|-------------|---------------------------------------------------------------|-------
 | TSMwithSnipe| HTML,CSS    | <a href="https://tsmwithsnipe.netlify.app">Click me!</a>      | <a href="https://github.com/SahilSamel/TSM">Let's go!</a> 
 | Calculator  | HTML,CSS,JS | <a href="https://calculatorwithme.netlify.app">Click me!</a>  | <a href="https://github.com/SahilSamel/Calculator">Let's go!</a>
 | To Do List  | HTML,CSS,JS | <a href="https://to-do-list-withjs.netlify.app">Click me!</a> | <a href="https://github.com/SahilSamel/to_do_list">Let's go!</a>
 
-| Website     | Back-End         | Live Demo                                                          | Repo
+| WebApp      | Back-End         | Live Demo                                                          | Repo
 | ------------|------------------|--------------------------------------------------------------------|-------
 | UpNote      | Node.js, MongoDB | <a href="https://cryptic-bayou-94607.herokuapp.com/">Click me!</a> |<a href="https://github.com/SahilSamel/UpNote">Lets Go!</a> 
 
