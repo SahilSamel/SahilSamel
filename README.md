@@ -3,7 +3,7 @@
 - 👀 I’m interested in Gaming, Workouts and coding
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Future projects if i have any
-- 📫 How to reach me <a href="https://twitter.com/SahilSamel134">Twitter</a>, <a href="https://www.linkedin.com/in/sahil-samel-172600207">LinkedIn</a>
+- 📫 How to reach me <a href="https://twitter.com/SahilSamel134">Twitter</a>, <a href="https://www.linkedin.com/in/sahil-samel-172600207">LinkedIn</a> and <a href="https://www.instagram.com/sahil.samel">Instragram</a>
                      
 
 ## My Web Dev Projects
