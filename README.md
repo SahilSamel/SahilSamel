@@ -1,7 +1,7 @@
 ### Yo
 - 👋 Hi, I’m @SahilSamel
-- 👀 I’m interested in Gaming, Workouts and coding
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Gaming, Workouts, Technology, Culinary, Art, History, Literature
+- 🌱 I’m currently learning Classification with Machine Learning
 - 💞️ I’m looking to collaborate on Future projects if i have any
 - 📫 How to reach me <a href="https://twitter.com/SahilSamel134">Twitter</a>, <a href="https://www.linkedin.com/in/sahil-samel-172600207">LinkedIn</a> and <a href="https://www.instagram.com/sahil.samel">Instragram</a>
                      
@@ -18,7 +18,11 @@
 | ------------|------------------|--------------------------------------------------------------------|-------
 | UpNote      | Node.js, MongoDB | <a href="https://cryptic-bayou-94607.herokuapp.com/">Click me!</a> |<a href="https://github.com/SahilSamel/UpNote">Lets Go!</a> 
 
+## My Classification Projects
 
+| Project    | Algo   | Framework | Repo
+|------------|--------|-----------|-------------------------------------------------------------------------
+| Potector   | Yolov4 | Darknet   | <a href="https://github.com/SahilSamel/Pothole-detection">Click me!</a>
 
 
 <!---
