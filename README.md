@@ -1,7 +1,7 @@
 ### Yo
 - 👋 Hi, I’m @SahilSamel
 - 👀 I’m interested in Gaming, Workouts, Technology, Culinary, Art, History, Literature
-- 🌱 I’m currently learning Classification with Machine Learning
+- 🌱 I’m currently Computer Vision
 - 💞️ I’m looking to collaborate on Future projects if i have any
 - 📫 How to reach me <a href="https://twitter.com/SahilSamel134">Twitter</a>, <a href="https://www.linkedin.com/in/sahil-samel-172600207">LinkedIn</a> and <a href="https://www.instagram.com/sahil.samel">Instragram</a>
                      
