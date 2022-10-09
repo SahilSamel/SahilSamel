@@ -18,7 +18,7 @@
 | ------------|------------------|--------------------------------------------------------------------|-------
 | UpNote      | Node.js, MongoDB | <a href="https://cryptic-bayou-94607.herokuapp.com/">Click me!</a> |<a href="https://github.com/SahilSamel/UpNote">Lets Go!</a> 
 
-## My Classification Projects
+## My Computer Vision Projects
 
 | Project    | Algo   | Framework | Repo                                                                    | Demo
 |------------|--------|-----------|-------------------------------------------------------------------------|-------------
