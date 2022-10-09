@@ -20,9 +20,9 @@
 
 ## My Classification Projects
 
-| Project    | Algo   | Framework | Repo
-|------------|--------|-----------|-------------------------------------------------------------------------
-| Potector   | Yolov4 | Darknet   | <a href="https://github.com/SahilSamel/Pothole-detection">Click me!</a>
+| Project    | Algo   | Framework | Repo                                                                    | Demo
+|------------|--------|-----------|-------------------------------------------------------------------------|-------------
+| Potector   | Yolov4 | Darknet   | <a href="https://github.com/SahilSamel/Pothole-detection">Let's Go</a>  | <a href="https://pothole-detector-69.netlify.app/">Click me!</a> 
 
 
 <!---
